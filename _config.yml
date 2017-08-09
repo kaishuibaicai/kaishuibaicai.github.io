@@ -1,22 +1,22 @@
 # Site settings
 title: KSBC Blog
-SEOTitle: 你的博客 | Your Blog
+SEOTitle: 开水白菜 | KSBC 
 header-img: img/home-bg.jpg
 email: a272251416@gmail.com 
 description: "ALL TRUTH IS ONE"
 keyword: ""
 url: "http://ksbc24.cn"              # your host, for absolute URL
-baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     开水白菜喔
+zhihu_username:     徐梓琅
+github_username:    kaishuibaicai
+twitter_username:   kaishuibaicai
+facebook_username:  徐梓琅
 
 
 
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
+sidebar-about-description: "All truth is one"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
