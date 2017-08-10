@@ -68,7 +68,15 @@ ga_domain: ksbc24.cn
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: 'All truth is one. \nIn this light, \nmay science and religion endeavor here \nfor the steady evolution of mankind, \nfrom darkness to light, \nfrom narrowness to broad-mindedness, \nfrom prejudice to tolerance. \nIt is the voice of life, \nwhich calls us to come and learn.'
+sidebar-about-description: 'All truth is one. 
+ In this light, 
+ may science and religion endeavor here 
+ for the steady evolution of mankind, 
+ from darkness to light, 
+ from narrowness to broad-mindedness, 
+ from prejudice to tolerance. 
+ It is the voice of life, 
+ which calls us to come and learn.'
 sidebar-avatar: /img/author_xu.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
