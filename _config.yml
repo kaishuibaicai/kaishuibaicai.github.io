@@ -95,5 +95,8 @@ friends: [
     },{
         title: "编程派",
         href: "http://codingpy.com"
+    },{
+        title: "CodeWars",
+        href: "https://www.codewars.com"
     }
 ]
