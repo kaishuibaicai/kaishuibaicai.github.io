@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "英仙座流星与"
-subtitle:   " \"流星雨观赏指南\""
+title:      英仙座流星雨
+subtitle:   流星雨观赏指南
 date:       2017-08-12 12:08:00
 author:     "Ksbc"
 header-img: "img/20170812/meteor.jpg"
