@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      英仙座流星雨
+title:英仙座流星雨
 subtitle:   流星雨观赏指南
 date:       2017-08-12 12:08:00
 author:     "Ksbc"
