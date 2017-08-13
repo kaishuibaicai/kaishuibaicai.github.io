@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      英仙座流星雨
-subtitle:   "流星雨观赏回忆及指南"
-date:       2017-08-12
-author:     "Ksbc"
+title:      "英仙座流星与"
+subtitle:   " \"流星雨观赏指南\""
+date:       2017-08-12 12:08:00
+author:     "Ksbc"
 header-img: "img/20170812/meteor.jpg"
 tags:
-      -生活-天文
+    - 生活
 ---
 
 > 当你凝望璀璨的星空时，是否也会进入沉思当中
